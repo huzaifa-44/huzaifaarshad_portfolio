@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<technologies>
+    <category name="Frontend">
+        <tech>
+            <name>HTML5</name>
+            <icon>assets/icons/html.svg</icon>
+            <description>Standard markup language for creating web pages.</description>
+        </tech>
+        <tech>
+            <name>CSS3</name>
+            <icon>assets/icons/css.svg</icon>
+            <description>Stylesheet language used for describing the presentation of a document written in HTML.</description>
+        </tech>
+        <tech>
+            <name>JavaScript</name>
+            <icon>assets/icons/javascript.svg</icon>
+            <description>High-level, often just-in-time compiled language that conforms to the ECMAScript standard.</description>
+        </tech>
+        <tech>
+            <name>jQuery</name>
+            <icon>assets/icons/jquery.svg</icon>
+            <description>Fast, small, and feature-rich JavaScript library.</description>
+        </tech>
+        <tech>
+            <name>React</name>
+            <icon>assets/icons/react.svg</icon>
+            <description>A JavaScript library for building user interfaces.</description>
+        </tech>
+        <tech>
+            <name>Angular</name>
+            <icon>assets/icons/angular.svg</icon>
+            <description>A platform and framework for building single-page client applications using HTML and TypeScript.</description>
+        </tech>
+    </category>
+    <category name="Backend">
+        <tech>
+            <name>Node.js</name>
+            <icon>assets/icons/node.js.svg</icon>
+            <description>JavaScript runtime built on Chrome's V8 JavaScript engine.</description>
+        </tech>
+        <tech>
+            <name>PHP</name>
+            <icon>assets/icons/php.svg</icon>
+            <description>A popular general-purpose scripting language that is especially suited to web development.</description>
+        </tech>
+        <tech>
+            <name>Python</name>
+            <icon>assets/icons/python.svg</icon>
+            <description>An interpreted, high-level, general-purpose programming language.</description>
+        </tech>
+    </category>
+    <category name="Mobile">
+        <tech>
+            <name>Flutter</name>
+            <icon>assets/icons/flutter.svg</icon>
+            <description>Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.</description>
+        </tech>
+    </category>
+    <category name="Databases">
+        <tech>
+            <name>Firebase</name>
+            <icon>assets/icons/firebase.svg</icon>
+            <description>Google's mobile platform that helps you quickly develop high-quality apps.</description>
+        </tech>
+        <tech>
+            <name>MongoDB</name>
+            <icon>assets/icons/mongodb.svg</icon>
+            <description>A cross-platform document-oriented database program.</description>
+        </tech>
+    </category>
+</technologies>
